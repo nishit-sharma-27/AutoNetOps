@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+src/frontend/node_modules/
+
+# Env files
+.env
+.env.*
+
+# Build
+build/
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
